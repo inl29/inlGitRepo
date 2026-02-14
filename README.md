@@ -1,3 +1,3 @@
 # inlGitRepo
 
-theme: jekyll-theme-minimal
+no idea what i'm doing
