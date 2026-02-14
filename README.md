@@ -1,3 +1,3 @@
 # inlGitRepo
 
-Struggle
+theme: jekyll-theme-minimal
