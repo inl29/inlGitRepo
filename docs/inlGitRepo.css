@@ -1,5 +1,6 @@
 body {
     margin: auto;
+    position: static;
     max-width: 1200px;
     background-color: gray;
 }
