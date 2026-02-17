@@ -1,13 +1,13 @@
 body {
-    max-width: 1500px;
+    max-width: 1200px;
     background-color: gray;
 }
 h1 {
     position:relative;
-    top: -40px;
+    top: 40px;
     left: 50%
 }
 table {
-    max-width: 1200px;
+    max-width: 1000px;
     background-color: #4a743a;
 }
