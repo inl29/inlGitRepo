@@ -1,3 +1,24 @@
 body {
     background-color: gray;
 }
+.relative1 {
+    position: relative;
+    top: -20px;
+    left: 20px;
+    background-color: white;
+    width: 500px;
+}
+.relative2 {
+    position: relative;
+    top: -20px;
+    left: 525px;
+    background-color: white;
+    width: 500px;
+}
+.relative3 {
+    position: relative;
+    top: -20px;
+    left: 1030px;
+    background-color: white;
+    width: 500px;
+}
