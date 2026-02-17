@@ -4,21 +4,21 @@ body {
 .relative1 {
     position: relative;
     top: -20px;
-    left: 20px;
+    left: 2%;
     background-color: white;
-    width: 500px;
+    width: 400px;
 }
-.relative2 {
-    position: relative;
-    top: -20px;
-    left: 525px;
+.absolute1 {
+    position: absolute;
+    top: 0px;
+    left: 30%;
     background-color: white;
-    width: 500px;
+    width: 400px;
 }
-.relative3 {
-    position: relative;
-    top: -20px;
-    left: 1030px;
+.absolute2 {
+    position: absolute;
+    top: 0px;
+    left: 62%;
     background-color: white;
-    width: 500px;
+    width: 400px;
 }
