@@ -2,23 +2,14 @@ body {
     background-color: gray;
 }
 .relative1 {
-    position: relative;
-    top: -20px;
-    left: 2%;
     background-color: #81c964;
     width: 400px;
 }
 .absolute1 {
-    position: absolute;
-    top: -20px;
-    left: 32%;
     background-color: #4a743a;
     width: 400px;
 }
 .absolute2 {
-    position: absolute;
-    top: -20px;
-    left: 64%;
     background-color: #141f0f;
     width: 400px;
 }
