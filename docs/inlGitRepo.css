@@ -1,13 +1,20 @@
 body {
+    margin: auto;
     max-width: 1200px;
     background-color: gray;
 }
 h1 {
+    font-family: fantasy;
     position:relative;
-    top: 40px;
-    left: 50%
+    top: 15px;
+    left: 40%;
+    bottom: 15px;
+}
+h2, h3 {
+    font-family: fantasy
 }
 table {
-    max-width: 1000px;
+    border-style: solid;
+    max-width: 1200px;
     background-color: #4a743a;
 }
